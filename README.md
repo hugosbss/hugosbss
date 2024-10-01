@@ -2,12 +2,11 @@
 
 👀 Estou interessado em vagas de desenvolvimento FullStack, Back-End e Front-End.  
 🌱 Atualmente estou aprendendo novas tecnologias por meio de projetos pessoais e da faculdade.  
-💼 https://www.linkedin.com/in/hugo-wg-silva23?   
-💞️ Estou buscando colaborar com uma equipe de forma profissional e remota.  
+💼 https://www.linkedin.com/in/hugo-wg-silva23?     
 📫 ohugodev@outlook.com
 
 😄 Pronomes: Ele/Dele  
-⚡ Curiosidade: Músico e guitarrista nas horas vagas.
+⚡ Curiosidade: Músico nas horas vagas.
 
 
 <!---
