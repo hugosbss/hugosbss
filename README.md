@@ -5,9 +5,6 @@
 💼 https://www.linkedin.com/in/hugo-wg-silva23?     
 📫 ohugodev@outlook.com
 
-😄 Pronomes: Ele/Dele  
-⚡ Curiosidade: Músico nas horas vagas.
-
 
 <!---
 hugosbss/hugosbss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
