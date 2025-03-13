@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou @hugosbss
+# 👋 Olá, eu sou Hugo
 
 👀 Estou interessado em vagas de desenvolvimento FullStack, Back-End e Front-End.  
 🌱 Atualmente estou aprendendo novas tecnologias por meio de projetos pessoais e da faculdade.  
