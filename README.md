@@ -6,11 +6,11 @@
 
 ## Hugo Silva's GitHub Stats  
 
-![Hugo Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
+![Hugo Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
 
 ## Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosbss&layout=compact&theme=dark)  
 
 ---
 
