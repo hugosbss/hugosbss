@@ -27,5 +27,5 @@
 
 ---
 
-📩 **E-mail:** ohugodev@outlook.com  
-💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-wg-silva23)
+📩 ohugodev@outlook.com  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-wg-silva23)
