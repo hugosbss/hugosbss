@@ -2,8 +2,6 @@
 
 ## 💻 Desenvolvedor Full Stack
 
----
-
 ## 🛠️ Tecnologias e Ferramentas  
 
 ### 🔹 **Front-End**  
