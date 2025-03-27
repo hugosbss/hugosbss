@@ -4,7 +4,7 @@
 
 ## 💻 Desenvolvedor Full Stack
 
-(https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
 
 ## Linguagens
 
