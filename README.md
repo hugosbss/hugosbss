@@ -4,7 +4,7 @@
 
 ## 💻 Desenvolvedor Full Stack
 
-![Hugo Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
+(https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
 
 ## Linguagens
 
@@ -20,4 +20,4 @@
 
 ## Contato!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-wg-silva23/)  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ohugodev@outlook.com)   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu_user_id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-wg-silva23/)  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ohugodev@outlook.com)   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1093962406595661834)
