@@ -4,8 +4,6 @@
 
 ## 💻 Desenvolvedor Full Stack
 
-## Hugo Silva's GitHub Stats  
-
 ![Hugo Silva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
 
 ## Linguagens
