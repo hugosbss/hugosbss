@@ -4,11 +4,11 @@
 
 ## 💻 Desenvolvedor Full Stack
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hugosbss&show_icons=true&theme=dark)  
+---
 
-## Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosbss&layout=compact&theme=dark)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Vue.js+%7C+Laravel+%7C+Node.js;Sempre+aprendendo+algo+novo" />
+</p>
 
 ---
 
