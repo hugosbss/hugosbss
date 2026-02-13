@@ -2,14 +2,13 @@
 
 # Bem-vindos(as) ao meu perfil ✌️  
 
-## 💻 Desenvolvedor Full Stack
-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Vue.js+%7C+Laravel+%7C+Node.js;Sempre+aprendendo+algo+novo" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Vue.js+%7C+Laravel+%7C+Node.js;APIs+REST+%7C+Docker+%7C+Linux;Construindo+soluções+web+modernas" 
+  />
 </p>
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
