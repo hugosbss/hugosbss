@@ -6,9 +6,10 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Vue.js+%7C+Laravel+%7C+Node.js;APIs+REST+%7C+Docker+%7C+Linux;Construindo+soluções+web+modernas" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;php+%7C+Laravel+%7C+Node.js;APIs+REST+%7C+Docker+%7C+Linux;Construindo+soluções+web" 
   />
 </p>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
